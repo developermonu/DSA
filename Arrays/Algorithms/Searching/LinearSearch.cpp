@@ -9,6 +9,7 @@ int LinearSearch(int* arr , int size , int key){
         return -1;
     }
     }
+    return 0
 }
 int main(){
     int arr[5] = {43,42,12,534,23};
